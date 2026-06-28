@@ -30,7 +30,7 @@ git push -u origin writing
 4. Make a change to the line below in this file: \
 GREENVILLE SENIOR HIGH SCHOOL - AEROSPACE ENGINEERING
 
-5. Add, commit, and push your changes: \
+5. To add, commit, and push your changes use this code: \ 
 git add README.md \
 git commit -m "Add school and intended major" \
 git push
